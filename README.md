@@ -1,12 +1,21 @@
-SINETHEMBA MCHUNU
-Linux Infrastructure & Cybersecurity
-        │
-        ├── 🐧 Linux / LPIC-1
-        ├── 🔐 Cybersecurity
-        ├── ⚙️ Ansible / Automation
-        ├── 🐳 Docker
-        ├── 🌐 Networking
-        ├── ☁️ Infrastructure
-        └── 🚀 DOSEBOS™
-                │
-                └── Digital ONE Solutions
+GitHub Profile
+│
+├── 👤 Sinethemba Mchunu
+│
+├── Bio
+│   └── Linux Infrastructure | Cybersecurity | DevOps...
+│
+├── Profile README ⭐
+│   ├── About me
+│   ├── Current focus
+│   ├── DOSEBOS™
+│   ├── Technology stack
+│   ├── Lab architecture
+│   └── Projects
+│
+└── Pinned repositories
+    ├── DOSEBOS™ Lab
+    ├── Linux
+    ├── Ansible
+    ├── Docker
+    └── Cybersecurity
